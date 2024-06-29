@@ -15,3 +15,6 @@ Cdoes for using the buzzer
 
 ## Combinations
 Codes that used combinations of sensors, displays, etc.
+
+## Final
+The final code used for this project
