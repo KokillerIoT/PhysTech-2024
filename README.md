@@ -7,6 +7,7 @@ Tilt sensor:
 
 RGB display:
 *Display(Wire color)→Raspberry Pi　*wire colors doesn't matter unless you use the IDC cable
+
 R1(brown)→GPIO11
 G1(red)→GPIO27
 B1(orange)→GPIO7
